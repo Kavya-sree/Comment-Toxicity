@@ -12,4 +12,4 @@ The dataset consists of large number of Wikipedia comments which have been label
 * identity_hate
 
 ## Contents
-**Toxic comment classification EDA**: https://github.com/Kavya-sree/Comment-Toxicity/blob/main/Toxic%20comment%20classification%20EDA.ipynb
+**Toxic comment classification EDA**: [Toxic comment classification EDA.ipynb](https://github.com/Kavya-sree/Comment-Toxicity/blob/de6048e246f8e728d50a122ac6bb27684e1ea3da/Toxic%20comment%20classification%20EDA.ipynb)
